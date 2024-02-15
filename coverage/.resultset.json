@@ -1,6 +1,62 @@
 {
   "RSpec": {
     "coverage": {
+      "/home/watila/Documentos/projetos/standup_app/app/models/account.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null
+        ]
+      },
+      "/home/watila/Documentos/projetos/standup_app/app/controllers/accounts_controller.rb": {
+        "lines": [
+          1,
+          1,
+          4,
+          null,
+          4,
+          null,
+          null,
+          1,
+          4,
+          null,
+          4,
+          2,
+          null,
+          2,
+          null,
+          2,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          4,
+          null,
+          null
+        ]
+      },
+      "/home/watila/Documentos/projetos/standup_app/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          20,
+          10,
+          null,
+          10,
+          null,
+          null,
+          null
+        ]
+      },
       "/home/watila/Documentos/projetos/standup_app/app/controllers/activity_controller.rb": {
         "lines": [
           1,
@@ -12,9 +68,20 @@
           null
         ]
       },
-      "/home/watila/Documentos/projetos/standup_app/app/controllers/application_controller.rb": {
+      "/home/watila/Documentos/projetos/standup_app/app/controllers/registrations_controller.rb": {
         "lines": [
           1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          6,
+          null,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       },
@@ -48,6 +115,29 @@
       },
       "/home/watila/Documentos/projetos/standup_app/app/helpers/application_helper.rb": {
         "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
           0,
           0
         ],
@@ -95,12 +185,14 @@
           null,
           0,
           0,
+          null,
+          0,
           0
         ],
         "branches": {
         }
       }
     },
-    "timestamp": 1707769265
+    "timestamp": 1708034820
   }
 }
